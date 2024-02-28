@@ -25,7 +25,7 @@ public class Q01 {
             } else if (possuiPassagem.equals("Nao")) {
                 System.out.println("a recepção é nessa direção");
             } else if (!dataNascimentoRG.equals(dataNascimentoPassagem)) {
-                System.out.println("190");
+                System.out.println("Infelizmente, terei que chamar a polícia.");
             } else {
                 System.out.println("o seu assento é " + assento + " tenha um ótimo dia");
             }
